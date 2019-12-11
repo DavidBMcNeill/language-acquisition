@@ -77,7 +77,6 @@ def detectImages():
             except queue.Empty:
                 pass
 
-    
 def handle_image(evt, obj=None, tap_count=None,  **kwargs):
     try:
         if(imageQueue.empty()):

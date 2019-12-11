@@ -1,0 +1,26 @@
+how many boxes? 300
+how many classes? 300
+how many scores? 300
+
+boxes type? <class 'numpy.ndarray'>
+classes type? <class 'numpy.ndarray'>
+scores type? <class 'numpy.ndarray'>
+
+boxes shape? (300, 4)
+classes shape? (300,)
+scores shape? (300,)
+
+boxes 0th type? <class 'numpy.ndarray'>
+classes 0th type? <class 'numpy.int64'>
+scores 0th type? <class 'numpy.float32'>
+
+Seems like it's drawing 300 non-trivial bounding boxes...
+[based on 
+"real_boxes = [box for box in boxes if sum(box) is not 0.0]"
+
+box in question [0.06490229 0.2765723  0.355305   0.49513456]
+class in question 16
+score inn question 0.71314174
+
+[0.06490229 0.2765723  0.355305   0.49513456]
+ymin, ymax, xmin, xmax

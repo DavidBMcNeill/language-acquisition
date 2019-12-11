@@ -2,16 +2,12 @@ import cozmo
 import queue
 import threading
 import time
-from classes.vision import Sight
+from classes.vision import Vision
 
 def cozmo_program(robot: cozmo.robot.Robot):
-    robot.set_lift_height(1.0)
-    exposure_amount = 0.1 # Range: [0,1]
-    gain_amount = 0.9 # Range: [0,1]
-    color = False
-    
+
     imageQueue = queue.Queue(maxsize=1)
-    look = Sight(robot) # , imageQueue
+    look = Vision(robot) # , imageQueue
     
     look.configure_camera(robot, exposure_amount, gain_amount, color)
     look.robot.add_event_handler(cozmo.camera.EvtNewRawCameraImage, look.handle_image)

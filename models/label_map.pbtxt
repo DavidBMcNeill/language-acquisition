@@ -1,0 +1,300 @@
+item {
+  name: "adelholzener_alpenquelle_classic_075"
+  id: 1
+  display_name: "adelholzener_alpenquelle_classic_075"
+}
+item {
+  name: "adelholzener_alpenquelle_naturell_075"
+  id: 2
+  display_name: "adelholzener_alpenquelle_naturell_075"
+}
+item {
+  name: "adelholzener_classic_bio_apfelschorle_02"
+  id: 3
+  display_name: "adelholzener_classic_bio_apfelschorle_02"
+}
+item {
+  name: "adelholzener_classic_naturell_02"
+  id: 4
+  display_name: "adelholzener_classic_naturell_02"
+}
+item {
+  name: "adelholzener_gourmet_mineralwasser_02"
+  id: 5
+  display_name: "adelholzener_gourmet_mineralwasser_02"
+}
+item {
+  name: "augustiner_lagerbraeu_hell_05"
+  id: 6
+  display_name: "augustiner_lagerbraeu_hell_05"
+}
+item {
+  name: "augustiner_weissbier_05"
+  id: 7
+  display_name: "augustiner_weissbier_05"
+}
+item {
+  name: "coca_cola_05"
+  id: 8
+  display_name: "coca_cola_05"
+}
+item {
+  name: "coca_cola_light_05"
+  id: 9
+  display_name: "coca_cola_light_05"
+}
+item {
+  name: "suntory_gokuri_lemonade"
+  id: 10
+  display_name: "suntory_gokuri_lemonade"
+}
+item {
+  name: "tegernseer_hell_03"
+  id: 11
+  display_name: "tegernseer_hell_03"
+}
+item {
+  name: "corny_nussvoll"
+  id: 12
+  display_name: "corny_nussvoll"
+}
+item {
+  name: "corny_nussvoll_single"
+  id: 13
+  display_name: "corny_nussvoll_single"
+}
+item {
+  name: "corny_schoko_banane"
+  id: 14
+  display_name: "corny_schoko_banane"
+}
+item {
+  name: "corny_schoko_banane_single"
+  id: 15
+  display_name: "corny_schoko_banane_single"
+}
+item {
+  name: "dr_oetker_vitalis_knuspermuesli_klassisch"
+  id: 16
+  display_name: "dr_oetker_vitalis_knuspermuesli_klassisch"
+}
+item {
+  name: "koelln_muesli_fruechte"
+  id: 17
+  display_name: "koelln_muesli_fruechte"
+}
+item {
+  name: "koelln_muesli_schoko"
+  id: 18
+  display_name: "koelln_muesli_schoko"
+}
+item {
+  name: "caona_cocoa"
+  id: 19
+  display_name: "caona_cocoa"
+}
+item {
+  name: "cocoba_cocoa"
+  id: 20
+  display_name: "cocoba_cocoa"
+}
+item {
+  name: "cafe_wunderbar_espresso"
+  id: 21
+  display_name: "cafe_wunderbar_espresso"
+}
+item {
+  name: "douwe_egberts_professional_ground_coffee"
+  id: 22
+  display_name: "douwe_egberts_professional_ground_coffee"
+}
+item {
+  name: "gepa_bio_caffe_crema"
+  id: 23
+  display_name: "gepa_bio_caffe_crema"
+}
+item {
+  name: "gepa_italienischer_bio_espresso"
+  id: 24
+  display_name: "gepa_italienischer_bio_espresso"
+}
+item {
+  name: "apple_braeburn_bundle"
+  id: 25
+  display_name: "apple_braeburn_bundle"
+}
+item {
+  name: "apple_golden_delicious"
+  id: 26
+  display_name: "apple_golden_delicious"
+}
+item {
+  name: "apple_granny_smith"
+  id: 27
+  display_name: "apple_granny_smith"
+}
+item {
+  name: "apple_red_boskoop"
+  id: 28
+  display_name: "apple_red_boskoop"
+}
+item {
+  name: "avocado"
+  id: 29
+  display_name: "avocado"
+}
+item {
+  name: "banana_bundle"
+  id: 30
+  display_name: "banana_bundle"
+}
+item {
+  name: "banana_single"
+  id: 31
+  display_name: "banana_single"
+}
+item {
+  name: "clementine"
+  id: 32
+  display_name: "clementine"
+}
+item {
+  name: "clementine_single"
+  id: 33
+  display_name: "clementine_single"
+}
+item {
+  name: "grapes_green_sugraone_seedless"
+  id: 34
+  display_name: "grapes_green_sugraone_seedless"
+}
+item {
+  name: "grapes_sweet_celebration_seedless"
+  id: 35
+  display_name: "grapes_sweet_celebration_seedless"
+}
+item {
+  name: "kiwi"
+  id: 36
+  display_name: "kiwi"
+}
+item {
+  name: "orange_single"
+  id: 37
+  display_name: "orange_single"
+}
+item {
+  name: "oranges"
+  id: 38
+  display_name: "oranges"
+}
+item {
+  name: "pear"
+  id: 39
+  display_name: "pear"
+}
+item {
+  name: "pasta_reggia_elicoidali"
+  id: 40
+  display_name: "pasta_reggia_elicoidali"
+}
+item {
+  name: "pasta_reggia_fusilli"
+  id: 41
+  display_name: "pasta_reggia_fusilli"
+}
+item {
+  name: "pasta_reggia_spaghetti"
+  id: 42
+  display_name: "pasta_reggia_spaghetti"
+}
+item {
+  name: "franken_tafelreiniger"
+  id: 43
+  display_name: "franken_tafelreiniger"
+}
+item {
+  name: "pelikan_tintenpatrone_canon"
+  id: 44
+  display_name: "pelikan_tintenpatrone_canon"
+}
+item {
+  name: "ethiquable_gruener_tee_ceylon"
+  id: 45
+  display_name: "ethiquable_gruener_tee_ceylon"
+}
+item {
+  name: "gepa_bio_und_fair_fencheltee"
+  id: 46
+  display_name: "gepa_bio_und_fair_fencheltee"
+}
+item {
+  name: "gepa_bio_und_fair_kamillentee"
+  id: 47
+  display_name: "gepa_bio_und_fair_kamillentee"
+}
+item {
+  name: "gepa_bio_und_fair_kraeuterteemischung"
+  id: 48
+  display_name: "gepa_bio_und_fair_kraeuterteemischung"
+}
+item {
+  name: "gepa_bio_und_fair_pfefferminztee"
+  id: 49
+  display_name: "gepa_bio_und_fair_pfefferminztee"
+}
+item {
+  name: "gepa_bio_und_fair_rooibostee"
+  id: 50
+  display_name: "gepa_bio_und_fair_rooibostee"
+}
+item {
+  name: "kilimanjaro_tea_earl_grey"
+  id: 51
+  display_name: "kilimanjaro_tea_earl_grey"
+}
+item {
+  name: "cucumber"
+  id: 52
+  display_name: "cucumber"
+}
+item {
+  name: "carrot"
+  id: 53
+  display_name: "carrot"
+}
+item {
+  name: "corn_salad"
+  id: 54
+  display_name: "corn_salad"
+}
+item {
+  name: "lettuce"
+  id: 55
+  display_name: "lettuce"
+}
+item {
+  name: "vine_tomatoes"
+  id: 56
+  display_name: "vine_tomatoes"
+}
+item {
+  name: "roma_vine_tomatoes"
+  id: 57
+  display_name: "roma_vine_tomatoes"
+}
+item {
+  name: "rocket"
+  id: 58
+  display_name: "rocket"
+}
+item {
+  name: "salad_iceberg"
+  id: 59
+  display_name: "salad_iceberg"
+}
+item {
+  name: "zucchini"
+  id: 60
+  display_name: "zucchini"
+}
